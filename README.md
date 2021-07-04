@@ -11,10 +11,10 @@ Instrunctions to Install
 
 Sample Input/output
 
-sidharthaggarwal:~/study/python/challenge3$ python3 task3.py
-Enter Object Path: {"a":{"b":{"c":"d"}}}
-Enter key value in format x/y/z: a/b
-{'c': 'd'}
+sidharthaggarwal:~/study/python/challenge3$ python3 task3.py\n
+Enter Object Path: {"a":{"b":{"c":"d"}}}\n
+Enter key value in format x/y/z: a/b\n
+{'c': 'd'}\n
 
 sidharthaggarwal:~/study/python/challenge3$ python3 task3.py
 Enter Object Path: {"a":{"b":{"c":"d"}}}
